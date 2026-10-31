@@ -1,0 +1,16 @@
+{
+  "name": "bhakti-sagar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bhakti Sagar devotional music app",
+  "scripts": {
+    "build": "echo Static app ready"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}
